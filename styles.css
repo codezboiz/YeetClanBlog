@@ -16,24 +16,30 @@ body {
 p,h1,h2,h3,h4,h5,h6,li,a,td,th,caption{
 	text-align: center;
 	color: #D36C6A;
-	-webkit-text-stroke-width: 1.5px;
-    	-webkit-text-stroke-color: black;
 	font-family: FortniteFont;
 }
 
 a {
 	text-decoration:none;
 	font-size: 25px;
+	-webkit-text-stroke-width: 1.5px;
+    	-webkit-text-stroke-color: black;
 }
 
 h2 {
 	font-size: 50px;
+	-webkit-text-stroke-width: 1.5px;
+    	-webkit-text-stroke-color: black;
 }
 
 h1 {
 	font-size: 100px;
+	-webkit-text-stroke-width: 1.5px;
+    	-webkit-text-stroke-color: black;
 }
 
 p, th, td{
 	font-size:25px;
+	-webkit-text-stroke-width: 0.5px;
+    	-webkit-text-stroke-color: black;
 }
