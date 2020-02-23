@@ -1,0 +1,35 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: #6AC0D3;
+	background: url(Images/Bg.png) center top no-repeat, url(Images/Drift.png) center fixed no-repeat;
+	background-size: 1400px 1400px;
+}
+
+@font-face {
+  font-family: FortniteFont;
+  src: url(Fortnite-Font/fortnitefont.ttf);
+}
+
+p,h1,h2,h3,h4,h5,h6,li,a{
+	text-align: center;
+	color: #D36C6A;
+	-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+	font-family: FortniteFont;
+}
+
+a {
+	text-decoration:none;
+	font-size: 25px;
+}
+
+h2 {
+	font-size: 50px;
+}
+
+h1 {
+	font-size: 100px;
+}
