@@ -34,6 +34,6 @@ h1 {
 	font-size: 100px;
 }
 
-table, th, td{
-	text-align: center;
+p, th, td{
+	font-size:25px;
 }
