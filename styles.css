@@ -13,7 +13,7 @@ body {
   src: url(fortnitefont.ttf);
 }
 
-p,h1,h2,h3,h4,h5,h6,li,a,td,th{
+p,h1,h2,h3,h4,h5,h6,li,a,td,th,caption{
 	text-align: center;
 	color: #D36C6A;
 	-webkit-text-stroke-width: 2px;
@@ -35,5 +35,6 @@ h1 {
 }
 
 table, th, td{
-	border="1px solid black";	
+	border="1px solid black";
+	text-align: center;
 }
