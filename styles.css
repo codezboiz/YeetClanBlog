@@ -43,3 +43,7 @@ p, th, td{
 	-webkit-text-stroke-width: 0.5px;
     	-webkit-text-stroke-color: black;
 }
+
+hr {
+	border: 1px solid black;	
+}
