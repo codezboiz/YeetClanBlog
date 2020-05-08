@@ -3,9 +3,9 @@ html {
 }
 
 body {
-	background-color: #6AC0D3;
-	background: url(Bg.png) center top no-repeat, url(Drift.png) center fixed no-repeat;
-	background-size: 1400px 1400px;
+	background-color: #D36A6A;
+	/*background: url(Bg.png) center top no-repeat, url(Drift.png) center fixed no-repeat;
+	background-size: 1400px 1400px;*/
 }
 
 @font-face {
